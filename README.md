@@ -89,15 +89,7 @@ int main() {
 }
 ```
 ### Output Unguided 1 :
-
-##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/gedeyogesvara-eng/Pratikum-STD-Modul01/blob/main/modul-1/Screenshot-Soal1.png)
 
 penjelasan unguided 1
 Program ini menggunakan tipe data float untuk menampung dua variabel input berupa bilangan pecahan atau desimal. Program kemudian menerapkan operator aritmatika dasar di C++ yaitu penambahan +, pengurangan -, perkalian *, dan pembagian / untuk memproses kedua bilangan masukan tersebut. Untuk menghemat memori operasi aritmatika dieksekusi secara langsung di dalam perintah output cout sehingga tidak memerlukan variabel tambahan dan hasilnya langsung dicetak ke layar secara berurutan.
@@ -140,15 +132,7 @@ int main() {
 }
 ```
 ### Output Unguided 2 :
-
-##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Screenshot Output Unguided 1](https://github.com/gedeyogesvara-eng/Pratikum-STD-Modul01/blob/main/modul-1/Screenshot-Soal2.png)
 
 penjelasan unguided 2
 Program ini berfungsi untuk mengonversi angka bilangan bulat 0 sampai 100 menjadi teks ejaan. Untuk efisiensi program menggunakan struktur array string bernama namaangka yang menyimpan kosa kata angka dasar. Program menggunakan struktur kontrol percabangan if else if else untuk memilah rentang angka. Khusus untuk angka puluhan 20 sampai 99, program menerapkan operator aritmatika pembagian / untuk mendapatkan nilai puluhan dan operator modulus % untuk mendapatkan nilai satuan, lalu menggabungkannya dengan elemen array untuk mencetak ejaan yang tepat secara dinamis.
@@ -190,16 +174,8 @@ int main() {
     return 0;
 }
 ```
-### Output Unguided 3 :
-
-##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+### Output Unguided 1 :
+![Screenshot Output Unguided 1](https://github.com/gedeyogesvara-eng/Pratikum-STD-Modul01/blob/main/modul-1/Screenshot-Soal3.png)
 
 penjelasan unguided 3
 Program ini berfungsi untuk mencetak pola susunan angka berbentuk segitiga terbalik dengan efek cermin. Program menggunakan perulangan didalam perulangan bertipe for. Loop utama bagian paling luar untuk perpindahan baris dari atas ke bawah. Di dalam loop utama ditambahkan beberapa loop untuk mengelola elemen di tiap barisnya secara spesifik, antara lain loop untuk mencetak spasi agar teks bergeser ke kanan membentuk pola piramida, loop untuk mencetak angka yang menurun decrement, loop batas tunggal untuk mencetak bintang pembatas, dan loop untuk mencetak angka menaik increment. Di luar dari keseluruhan proses tersebut, terdapat loop tambahan terakhir untuk mengatur spasi posisi satu bintang penutup di baris paling bawah.
